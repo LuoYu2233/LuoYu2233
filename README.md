@@ -51,6 +51,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuoYu2233&theme=monokai" alt="LuoYu2233's GitHub Contribution Graph" />
 </div>
 
+
+
 ## 🤝 联系我
 
 <p align="center">
@@ -60,12 +62,9 @@
   <a href="https://github.com/LuoYu2233">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://blog.csdn.net/LUOYU125?type=blog">
+    <img src="https://img.shields.io/badge/-CSDN-CF000E?style=for-the-badge&logo=c&logoColor=white" alt="CSDN" />
+  </a>
 </p>
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=LuoYu2233&color=brightgreen&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/LuoYu2233?label=Followers&style=for-the-badge" alt="GitHub followers" />
-</div>
 
