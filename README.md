@@ -18,8 +18,9 @@
 
 ## 🏆 Honors and Awards
 
-- 🥇 University Student Innovation Methods Competition - Provincial First Prize  Role: Core Member
-- 🏅 National University Student System Capability Competition - Intelligent Systems Track (Xiaomi Cup) - National First Prize  Role: Team Leader
+- 🥇 University Student Innovation Methods Competition -- Provincial First Prize  Role: Core Member
+- 🏅 National University Student System Capability Competition - Intelligent Systems Track (Xiaomi Cup) -- National First Prize  Role: Team Leader
+- 🏅 The sixth Global Campus Artificial Intelligence Algorithm Elite Competition -- National first prize Role: Team Leader
 
 ## 🛠 Tech Stack
 
